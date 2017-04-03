@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "rua": "Nome da Rua",
+    "cep": "99999999",
+    "bairro": "Nome do Bairro",
+    "cidade": "Nome da Cidade",
+    "estado": "Nome do Estado",
+    "numero": "999"
+}
