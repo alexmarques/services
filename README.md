@@ -19,3 +19,8 @@ Depois disso baixar o mysql-connector mysql-connector-java-5.1.9.jar e copiar pa
 Bastar entrar no diretório da aplicação e digitar o comando
 
 mvn wildfly:run -Dmaven.test.skip=true
+
+# Endpoints da aplicação
+
+localhost:8080/services/endereco - para cadastrar, alterar, excluir um endereco
+localhost:8080/services/cep - para validação de cep e buscar o endereço dado um cep
